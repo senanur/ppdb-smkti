@@ -162,10 +162,10 @@
 
                                     @php
                                         $gelombang = [
-                                            'Gelombang Khusus' => ['2023-12-01', '2024-01-31'],
-                                            'Gelombang Pertama' => ['2024-02-01', '2024-03-31'],
-                                            'Gelombang Kedua' => ['2024-04-01', '2024-05-31'],
-                                            'Gelombang Ketiga' => ['2024-06-01', '2024-07-31'],
+                                            'Gelombang Khusus' => ['2025-12-01', '2025-12-31'],
+                                            'Gelombang Pertama' => ['2026-01-01', '2026-03-31'],
+                                            'Gelombang Kedua' => ['2026-04-01', '2026-05-31'],
+                                            'Gelombang Ketiga' => ['2026-06-01', '2026-07-31'],
                                         ];
                                     @endphp
 
