@@ -188,7 +188,8 @@
             const yearElement = document.getElementById('currentYear');
 
             // You can modify the format as needed
-            yearElement.innerHTML = `<b>Tahun ${currentYear}/${currentYear + 1}</b>`;
+            // yearElement.innerHTML = `<b>Tahun ${currentYear}/${currentYear + 1}</b>`;
+            yearElement.innerHTML = `<b>Tahun 2026/2027</b>`;
         }
 
         function setYearUpdateInterval() {
