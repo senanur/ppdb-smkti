@@ -147,7 +147,7 @@
                                 <ul>
                                     <li>Biaya Pendaftaran Rp. 100.000,-</li>
                                     <li>Pembayaran Via Virtual Account Bank BNI : 9888111420211001 an. FORMULIR PSB SMK
-                                        TI AIRLANGGA 2023</li>
+                                        TI AIRLANGGA 2026</li>
                                     <li>Wajib Konfirmasi pembayaran bisa melalui telp atau bukti transfer dikirim via WA
                                         : 0811 5555 214</li>
                                 </ul>
